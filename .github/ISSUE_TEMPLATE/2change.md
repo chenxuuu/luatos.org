@@ -15,6 +15,7 @@ assignees: ''
 | 域名前缀 | 如：example                               |
 | 指向仓库 | 如：github.com/xxxxabc/xxxx    |
 | 邮箱账号 | 如：user。如果不需要，则留空 |
+| 邮箱转发目标 | 如xxx@example.com。若不需要，则留空 |
 
 ## 原因
 
