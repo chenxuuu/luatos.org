@@ -10,7 +10,7 @@
 
 ## 邮箱申请步骤
 
-打开本项目的Issue页面，点击`New Issue`新建一个Issue，按说明提交即可
+打开[本项目的Issue页面](https://github.com/chenxuuu/luatos.org/issues)，点击`New Issue`新建一个Issue，按说明提交即可
 
 ## Page域名申请步骤
 
